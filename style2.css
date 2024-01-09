@@ -1,0 +1,66 @@
+body,*{
+    margin:0;
+    padding: 0;
+    /* background-color: black; */
+  }
+   .logo{
+      height:70px;
+      margin-top:0px;
+  }
+  nav{
+    background-color: black;
+    height:9vh;
+  }
+  .navbar-nav{
+      font-family: cursive;
+  }
+  .nav-links{
+    font-weight: bold;
+    font-size: 1.6vw;
+    color: rgb(230, 113, 35);
+  }
+  #row1{
+    background-color: black;
+    height:90vh;
+  }
+  #row1-row1{
+    margin-top:18vh;
+    text-align: center;
+  }
+  #row1-div1{
+    border-right:4px solid rgb(246, 110, 7);
+  }
+  .row1-text{
+    text-align: left;
+    margin-left:7vw;
+    color:aliceblue;
+  }
+  .row1-heading{
+    color: red;
+  }
+  #row2{
+    height: 20vh;
+    
+  }
+  .row2-head{
+    color: white;
+    text-align: center;
+    margin-top: 2vw;
+    margin-bottom: 2vw;
+  }
+  #row2-row2{
+    background-color: rgba(75, 71, 71,0.2);
+    width:89vw;
+    margin: auto;
+    box-shadow: 0 25px 25px 0 rgba(0, 0, 0, 0.728), 0 20px 35px 0 rgba(0, 0, 0, 0.713);
+  }
+  .card{
+    background-color: black;
+    margin-top: 50px;
+    margin-left: 49px;
+    width: 23vw;
+    box-shadow: 0 25px 25px 0 rgba(0, 0, 0, 0.728), 0 20px 35px 0 rgba(0, 0, 0, 0.713);
+  }
+  .card-img-top{
+    height:25vh;
+  }
